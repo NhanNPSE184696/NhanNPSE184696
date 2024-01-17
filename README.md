@@ -21,9 +21,9 @@
             <li>At least one link to an external source.</li>
             <p>In addition the page must be hosted and pass <a href="https://validator.w3.org/">The W3C Markup Validation Service Tool</a></p>
             <h2>Pictures</h2>
-            <img src="./image/img_chania.jpg" alt="You can't see it bruh?">
-            <img src="./image/img_girl.jpg" alt="Are u blind?">
-            <img src="./image/pic_trulli.jpg" alt="Poor u!">
+            <img src="img_chania.jpg" alt="You can't see it bruh?">
+            <img src="img_girl.jpg" alt="Are u blind?">
+            <img src="pic_trulli.jpg" alt="Poor u!">
 
         </ol>
     </main>
